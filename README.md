@@ -1,4 +1,4 @@
 # ess-git
  
  Heute lernen wir etwas über Git und Github.
- Das wollen wir alles festhalten.
+ Das wollen wir festhalten.
