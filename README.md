@@ -1,4 +1,4 @@
-# ess-git3
+# ess-git2
  
  Heute lernen wir etwas über Git und Github.
  Das wollen wir festhalten.
